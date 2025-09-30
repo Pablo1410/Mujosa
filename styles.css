@@ -146,9 +146,3 @@ a {
     max-width: 100%;
   }
 }
-
-.nav-image img {
-  height: 40px; /* Ajusta según tamaño deseado */
-  width: 40px;
-  border-radius: 4px; /* opcional */
-}
